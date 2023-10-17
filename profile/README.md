@@ -1,1 +1,1 @@
-![teoconf_festa](https://user-images.githubusercontent.com/64428916/236466051-4650be58-951d-405d-a0ac-d33ee72a26f1.png)
+![teoconf_main_logo](https://github.com/TeoConference/.github/assets/64088250/425e6896-354b-4175-b6f5-5ee91318700b)
