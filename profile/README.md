@@ -1,1 +1,1 @@
-![teoconf_main_logo](https://github.com/TeoConference/.github/assets/64088250/425e6896-354b-4175-b6f5-5ee91318700b)
+<img width="800" height="600" alt="TEOConf_2025" src="https://github.com/user-attachments/assets/7117d973-b625-4ef7-9959-77ceef6b190e" />
